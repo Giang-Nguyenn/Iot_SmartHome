@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IoT_SmartHome</string>
+    <string name="prompt">Choose a country</string>
+
+    <string-array name="arrays">
+        <item>Giây</item>
+        <item>Phút</item>
+        <item>Giờ</item>
+        <item>Ngày</item>
+
+    </string-array>
+</resources>
